@@ -1,0 +1,10 @@
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\UnitTestCatalogue\obj\Debug\UnitTestCatalogue.csprojResolveAssemblyReference.cache
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\UnitTestCatalogue\bin\Debug\UnitTestCatalogue.dll
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\UnitTestCatalogue\bin\Debug\UnitTestCatalogue.pdb
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\UnitTestCatalogue\bin\Debug\CatalogueDeJouet.exe
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\UnitTestCatalogue\bin\Debug\CatalogueJouetDll.dll
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\UnitTestCatalogue\bin\Debug\CatalogueJouetPoulmane.dll
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\UnitTestCatalogue\bin\Debug\CatalogueDeJouet.pdb
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\UnitTestCatalogue\bin\Debug\CatalogueJouetDll.pdb
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\UnitTestCatalogue\obj\Debug\UnitTestCatalogue.dll
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\UnitTestCatalogue\obj\Debug\UnitTestCatalogue.pdb

@@ -1,0 +1,28 @@
+﻿<Window x:Class="CatalogueDeJouet.WAdmin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Panneau Responsable CE" Height="361" Width="802">
+    <Grid>
+
+        <Label x:Name="lblTitre" Content="Récapitulatif des jouets choisis par employé" HorizontalAlignment="Left" Height="26" Margin="10,6,0,0" VerticalAlignment="Top" Width="259"/>
+        <DataGrid x:Name="dtAffichage"  AutoGenerateColumns="False"  HorizontalAlignment="Left" Height="241" Margin="31,49,0,0" VerticalAlignment="Top" Width="720">
+            <DataGrid.Columns>
+                <DataGridTextColumn  Binding="{Binding Nom}" Header="Nom" Width="200" IsReadOnly="True">
+                </DataGridTextColumn>
+                <DataGridTemplateColumn Header="Enfants"  Width="200">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <ListBox  x:Name="lstEnfants" ItemsSource= "{Binding LesEnfants}" Margin="0,0,0,0"  Width="200"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button  x:Name="btnNbJouets" Content="nb Jouets" HorizontalAlignment="Left" Height="22" Margin="315,10,0,0" VerticalAlignment="Top" Width="86" Click="btnNbJouets_Click"/>
+        <Button  x:Name="btnNbJouetCateg" Content="Jouets par catégorie" HorizontalAlignment="Left" Height="22" Margin="435,10,0,0" VerticalAlignment="Top" Width="147" Click="btnNbJouetCateg_Click"/>
+        <Button  x:Name="btnDeconnecter" Content="se déconnecter" HorizontalAlignment="Left" Height="26" Margin="512,295,0,0" VerticalAlignment="Top" Width="110" Click="btnDeconnecter_Click"/>
+
+    </Grid>
+</Window>

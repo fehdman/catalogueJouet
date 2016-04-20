@@ -1,0 +1,10 @@
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueJouetDll\bin\Debug\CatalogueJouetDll.dll
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueJouetDll\bin\Debug\CatalogueJouetDll.pdb
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueJouetDll\obj\Debug\CatalogueJouetDll.csprojResolveAssemblyReference.cache
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueJouetDll\obj\Debug\CatalogueJouetDll.dll
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueJouetDll\obj\Debug\CatalogueJouetDll.pdb
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueJouetDll\bin\Debug\CatalogueJouetDll.dll
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueJouetDll\bin\Debug\CatalogueJouetDll.pdb
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueJouetDll\obj\Debug\CatalogueJouetDll.csprojResolveAssemblyReference.cache
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueJouetDll\obj\Debug\CatalogueJouetDll.dll
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueJouetDll\obj\Debug\CatalogueJouetDll.pdb

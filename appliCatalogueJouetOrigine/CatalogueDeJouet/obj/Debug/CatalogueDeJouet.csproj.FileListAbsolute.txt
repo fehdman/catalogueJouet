@@ -1,0 +1,211 @@
+C:\Users\sio2\Desktop\Programme SLAM\PPEHopitalJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe.config
+C:\Users\sio2\Desktop\Programme SLAM\PPEHopitalJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe
+C:\Users\sio2\Desktop\Programme SLAM\PPEHopitalJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.pdb
+C:\Users\sio2\Desktop\Programme SLAM\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csprojResolveAssemblyReference.cache
+C:\Users\sio2\Desktop\Programme SLAM\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\MainWindow.baml
+C:\Users\sio2\Desktop\Programme SLAM\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\MainWindow.g.cs
+C:\Users\sio2\Desktop\Programme SLAM\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\App.g.cs
+C:\Users\sio2\Desktop\Programme SLAM\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_MarkupCompile.cache
+C:\Users\sio2\Desktop\Programme SLAM\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.g.resources
+C:\Users\sio2\Desktop\Programme SLAM\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.Properties.Resources.resources
+C:\Users\sio2\Desktop\Programme SLAM\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csproj.GenerateResource.Cache
+C:\Users\sio2\Desktop\Programme SLAM\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.exe
+C:\Users\sio2\Desktop\Programme SLAM\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.pdb
+C:\Users\sio2\Desktop\Programme SLAM\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\WChoixJouet.baml
+C:\Users\sio2\Desktop\Programme SLAM\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\WChoixJouet.g.cs
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe.config
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.exe
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.pdb
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.pdb
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csprojResolveAssemblyReference.cache
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\MainWindow.baml
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\WChoixJouet.baml
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\MainWindow.g.cs
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\WChoixJouet.g.cs
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\App.g.cs
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_Content.g.cs
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_MarkupCompile.cache
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.g.resources
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.Properties.Resources.resources
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csproj.GenerateResource.Cache
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\bin\Debug\CatalogueJouetPoulmane.dll
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\WAdmin.baml
+H:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\WAdmin.g.cs
+F:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe.config
+F:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.exe
+F:\Travail\PPE SIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.pdb
+C:\Users\SIO1\Documents\Visual Studio 2010\catalogueJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe.config
+C:\Users\SIO1\Documents\Visual Studio 2010\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.exe
+C:\Users\SIO1\Documents\Visual Studio 2010\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.pdb
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe.config
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.exe
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.pdb
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csprojResolveAssemblyReference.cache
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\MainWindow.baml
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\WAdmin.baml
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\WChoixJouet.baml
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\MainWindow.g.cs
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\WAdmin.g.cs
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\WChoixJouet.g.cs
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\App.g.cs
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_Content.g.cs
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_MarkupCompile.cache
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.g.resources
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.Properties.Resources.resources
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csproj.GenerateResource.Cache
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.pdb
+H:\Travail\PPESIO2\hôpitalAppli\PPEHopitalJouet\CatalogueDeJouet\bin\Debug\CatalogueJouetPoulmane.dll
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe.config
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.exe
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.pdb
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.pdb
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\bin\Debug\CatalogueJouetPoulmane.dll
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csprojResolveAssemblyReference.cache
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\obj\Debug\MainWindow.baml
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\obj\Debug\WAdmin.baml
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\obj\Debug\WChoixJouet.baml
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\obj\Debug\MainWindow.g.cs
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\obj\Debug\WAdmin.g.cs
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\obj\Debug\WChoixJouet.g.cs
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\obj\Debug\App.g.cs
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_Content.g.cs
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_MarkupCompile.cache
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.g.resources
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.Properties.Resources.resources
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csproj.GenerateResource.Cache
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe.config
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.exe
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.pdb
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\bin\Debug\CatalogueJouetPoulmane.dll
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csprojResolveAssemblyReference.cache
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\obj\Debug\MainWindow.baml
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\obj\Debug\WAdmin.baml
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\obj\Debug\WChoixJouet.baml
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\obj\Debug\MainWindow.g.cs
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\obj\Debug\WAdmin.g.cs
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\obj\Debug\WChoixJouet.g.cs
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\obj\Debug\App.g.cs
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_Content.g.cs
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_MarkupCompile.cache
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.g.resources
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.Properties.Resources.resources
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csproj.GenerateResource.Cache
+C:\Users\Sio2\Desktop\ppe\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.pdb
+=======
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe.config
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.exe
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.pdb
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.pdb
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\bin\Debug\CatalogueJouetPoulmane.dll
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csprojResolveAssemblyReference.cache
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\obj\Debug\MainWindow.baml
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\obj\Debug\WAdmin.baml
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\obj\Debug\WChoixJouet.baml
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\obj\Debug\MainWindow.g.cs
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\obj\Debug\WAdmin.g.cs
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\obj\Debug\WChoixJouet.g.cs
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\obj\Debug\App.g.cs
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_Content.g.cs
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_MarkupCompile.cache
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.g.resources
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.Properties.Resources.resources
+C:\Users\SIO1_2\Documents\Visual Studio 2013\Projects\catalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csproj.GenerateResource.Cache
+f27ad4bb13b9e5fcf7ed797f8cee29f5fbf91566
+K:\synchro_cle\travauxRendus_et_docStage\2015_2016\sio2\PPE\mission4\debruyckerePoulmaneWan\catalogueJouet-master\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe.config
+K:\synchro_cle\travauxRendus_et_docStage\2015_2016\sio2\PPE\mission4\debruyckerePoulmaneWan\catalogueJouet-master\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.exe
+K:\synchro_cle\travauxRendus_et_docStage\2015_2016\sio2\PPE\mission4\debruyckerePoulmaneWan\catalogueJouet-master\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.pdb
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe.config
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.exe
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.pdb
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouet\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe.config
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.exe
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouet\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.pdb
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe.config
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.exe
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.pdb
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csprojResolveAssemblyReference.cache
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\MainWindow.baml
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\WAdmin.baml
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\WChoixJouet.baml
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\MainWindow.g.cs
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\WAdmin.g.cs
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\WChoixJouet.g.cs
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\App.g.cs
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_Content.g.cs
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_MarkupCompile.cache
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.g.resources
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.Properties.Resources.resources
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csproj.GenerateResource.Cache
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.pdb
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueJouetPoulmane.dll
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueJouetDll.dll
+J:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueJouetDll.pdb
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe.config
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.exe
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.pdb
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csprojResolveAssemblyReference.cache
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\MainWindow.baml
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\WAdmin.baml
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\WChoixJouet.baml
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\MainWindow.g.cs
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\WAdmin.g.cs
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\WChoixJouet.g.cs
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\App.g.cs
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_Content.g.cs
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_MarkupCompile.cache
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.g.resources
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.Properties.Resources.resources
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csproj.GenerateResource.Cache
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.pdb
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueJouetDll.dll
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueJouetPoulmane.dll
+C:\Users\nathalie\Desktop\natha_pour_bts\aa_prendre_en_compte_sio\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueJouetDll.pdb
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe.config
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.exe
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.pdb
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.pdb
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueJouetDll.dll
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueJouetPoulmane.dll
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueJouetDll.pdb
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csprojResolveAssemblyReference.cache
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\MainWindow.baml
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\WAdmin.baml
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\WChoixJouet.baml
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\MainWindow.g.cs
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\WAdmin.g.cs
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\WChoixJouet.g.cs
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\App.g.cs
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_Content.g.cs
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_MarkupCompile.cache
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.g.resources
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.Properties.Resources.resources
+K:\synchro_cle\lesCoursDes2013_2014\sio2\ppe\ppe3_4Hopital\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csproj.GenerateResource.Cache
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe.config
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.exe
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.pdb
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.exe
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueDeJouet.pdb
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueJouetDll.dll
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueJouetPoulmane.dll
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\bin\Debug\CatalogueJouetDll.pdb
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csprojResolveAssemblyReference.cache
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\MainWindow.baml
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\WAdmin.baml
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\WChoixJouet.baml
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\MainWindow.g.cs
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\WAdmin.g.cs
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\WChoixJouet.g.cs
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\App.g.cs
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_Content.g.cs
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet_MarkupCompile.cache
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.g.resources
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.Properties.Resources.resources
+C:\Users\SIO2\Videos\appliCatalogueJouetOrigine\CatalogueDeJouet\obj\Debug\CatalogueDeJouet.csproj.GenerateResource.Cache
